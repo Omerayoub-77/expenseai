@@ -1,8 +1,4 @@
-Yes. Since the project you're currently pushing is **ExpenseAI**, here's a professional GitHub `README.md` you can use.
 
-Create a file named **`README.md`** in the project root and paste this:
-
-````markdown
 # 💰 ExpenseAI
 
 An AI-powered personal expense tracking and financial analytics application built with **Next.js, TypeScript, Tailwind CSS, Supabase, Recharts, and OpenAI**.
